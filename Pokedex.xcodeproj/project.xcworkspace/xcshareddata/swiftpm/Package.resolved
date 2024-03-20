@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "5b92f029fab2cce44386d28588098b5be0824ef5",
+        "version" : "7.11.0"
+      }
+    },
+    {
+      "identity" : "network",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnsonWang13/Network",
+      "state" : {
+        "revision" : "d86246d5a202dda25394985a4642eadddf804783",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "pokemonloader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnsonWang13/PokemonLoader",
+      "state" : {
+        "revision" : "4ed07deb784ef0de0f964b30e6af8b998c17fca7",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
